@@ -1,0 +1,13 @@
+{
+  "train": {
+    "train_path": "D:\\Projects\\AI\\Data\\Shadow_4input\\Train",
+    "folder_name": "Unet_avgpool_add_level012345_90VGG_depth_newdata_lr=1e-3",
+    "last_epoch": 48
+  },
+  "parameters": {
+    "epoch": 300,
+    "batch_size": 1,
+    "learning_rate": 1e-3,
+    "validation_step": 300
+  }
+}
